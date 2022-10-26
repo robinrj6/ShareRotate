@@ -1,3 +1,4 @@
 # ShareRotate
-![ShareRotate](https://user-images.githubusercontent.com/32635922/197994716-9a2f5418-86bd-46ae-b2c9-f2f4cd02e322.gif)
+![ShareRotate(1)](https://user-images.githubusercontent.com/32635922/197995432-7c7d11ab-a9e2-466b-ae51-2df0aa281fa5.gif)
+
 
